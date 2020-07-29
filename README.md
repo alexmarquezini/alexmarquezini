@@ -1,12 +1,12 @@
-### Hi there 👋
+### Olá Pessoal!👋
 
 <!--
 **alexmarquezini/alexmarquezini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 No momento estou trabalhando em 3 projetos principalmente, na manutenção de sites de Auto Escolas e Escolas de Dança em PHP + MySQL; na manutenção, implantação e modificação de um site para uma empresa de publicações de manuais com Back End em Django + Postgres e Front End em Vue.js. Também estou começando um novo projeto para gerenciamento de academias em React e React-Native.
+- 🌱 Atualmente estou aprendedo React e React-Native em um ritmo alucinado para dar conta do novo projeto.
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
