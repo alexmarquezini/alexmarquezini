@@ -4,7 +4,7 @@
 **alexmarquezini/alexmarquezini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 No momento estou trabalhando em 1 projetos principalmente,  um novo projeto para gerenciamento de academias em PHP Laravel.
+- 🔭 No momento estou trabalhando em um projetos principalmente,  um novo projeto para gerenciamento de academias em PHP Laravel.
   
 - 🌱 Atualmente estou aprendendo React, Typescript e Node para me inserir em um mercado mais amplo.
   
